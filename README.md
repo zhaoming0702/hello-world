@@ -1,2 +1,3 @@
 # hello-world
-Just Another Repository
+hi guys, i like java and oracle.
+that's all!
